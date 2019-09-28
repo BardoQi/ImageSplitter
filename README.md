@@ -18,7 +18,7 @@ Split large images into m x n equal-sized small pieces.
 Via Composer
 
 ``` bash
-$ composer require bardoqi/image-splitte
+$ composer require bardoqi/image-splitter
 ```
 
 ## Usage
