@@ -1,5 +1,5 @@
 {
-    "name": "bardoqi/image-splitter",
+    "name": "bardoqi/ImageSplitter",
     "description": "Split large images into m x n equal-sized small pieces.",
     "type": "library",
     "keywords": [
@@ -7,7 +7,7 @@
         "image to tile",
         "php7"
     ],
-    "homepage": "https://github.com/BardoQi/imageSplitter",
+    "homepage": "https://github.com/BardoQi/ImageSplitter",
     "require": {
         "php": "~7.0"
     },
@@ -26,7 +26,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "BardoQi\\imageSplitter\\": "src/"
+            "BardoQi\\image-splitter\\": "src/"
         }
     },
     "extra": {
